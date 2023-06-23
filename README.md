@@ -5,12 +5,12 @@ Table of contents
 =================
 
 <!--ts-->
-   * [INTRODUTION](https://github.com/Chetan-G-Gokhale/Two-Stage-Miller-Compensated-Opamp#design-specification-of-opamp)
-   * [BLOCK DIAGRAMS](#public)
-       * [UNSIGNED VS SIGNED ](https://github.com/Chetan-G-Gokhale/Two-Stage-Miller-Compensated-Opamp#circuit-diagram)
-   * [RESULT](#public)
-     * [UNSIGNED MULTIPLICATION](https://github.com/Chetan-G-Gokhale/Two-Stage-Miller-Compensated-Opamp#common-centriod)
-     * [SIGNED MULTIPLICATION](https://github.com/Chetan-G-Gokhale/Two-Stage-Miller-Compensated-Opamp#interdigitation)
+   * [INTRODUTION](https://github.com/Chetan-G-Gokhale/Signed-and-Unsigned-Carry-Save-Multiplier#introduction)
+   * [BLOCK DIAGRAMS](https://github.com/Chetan-G-Gokhale/Signed-and-Unsigned-Carry-Save-Multiplier#block-diagrams)
+       * [UNSIGNED VS SIGNED ](https://github.com/Chetan-G-Gokhale/Signed-and-Unsigned-Carry-Save-Multiplier#now-let-us-look-at-the-signed-carry-save-multiplier-implementation)
+   * [RESULT](https://github.com/Chetan-G-Gokhale/Signed-and-Unsigned-Carry-Save-Multiplier#results)
+     * [UNSIGNED MULTIPLICATION](https://github.com/Chetan-G-Gokhale/Signed-and-Unsigned-Carry-Save-Multiplier#unsigned-multiplier)
+     * [SIGNED MULTIPLICATION](https://github.com/Chetan-G-Gokhale/Signed-and-Unsigned-Carry-Save-Multiplier#signed-and-unsigned-notation-comparsion-in-waveform)
  <!--te-->
 
 
@@ -84,7 +84,8 @@ OUTPUT AT TRANSCRIPT WINDOW :
 ### SIGNED AND UNSIGNED NOTATION COMPARSION IN WAVEFORM
 <br>
 Let us look the signed and unsigned notation in the waveform and compare the differences.
-   
+
+   <br>
 <br>
 <p align="center">
   <img src="https://github.com/Chetan-G-Gokhale/Signed-and-Unsigned-Carry-Save-Multiplier/assets/126239004/451e6bde-224e-49ea-99f0-9faebfa7e7ff">
