@@ -1,7 +1,8 @@
 # Signed-and-Unsigned-Carry-Save-Multiplier
 Implementation of 4 Bit Carry Save Multiplier of both Signed and Unsigned Integers <br>
-The Block Diagrams and optimized two's compliment method are reffered from lectures of Prof Janakiraman(IIT MADRAS) offered in the course of "Digital IC Design"
-I recommend you to have a watch on carry save multipliers which are readilyy available on youtube.
+The Block Diagrams and optimized two's compliment method are reffered from the lectures of <br.
+Prof Janakiraman(IIT MADRAS) offered in the course of "Digital IC Design"
+I recommend you to have a watch on carry save multipliers which are readily available on youtube.
 
 
 Table of contents
