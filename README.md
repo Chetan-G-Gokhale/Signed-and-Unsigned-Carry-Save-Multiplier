@@ -92,10 +92,11 @@ Let us look the signed and unsigned notation in the waveform and compare the dif
    <br>
 <br>
 <p align="center">
-  <img src="https://github.com/Chetan-G-Gokhale/Signed-and-Unsigned-Carry-Save-Multiplier/assets/126239004/451e6bde-224e-49ea-99f0-9faebfa7e7ff">
+  <img src="https://github.com/Chetan-G-Gokhale/Signed-and-Unsigned-Carry-Save-Multiplier/assets/126239004/573f6ce2-0302-4461-b620-58a232d03e65">
 </p>
 <br>
 <br>
+
 
 <p align="center">
   <img src="https://github.com/Chetan-G-Gokhale/Signed-and-Unsigned-Carry-Save-Multiplier/assets/126239004/edc9ffdc-6054-4870-8010-81315c37a5aa">
